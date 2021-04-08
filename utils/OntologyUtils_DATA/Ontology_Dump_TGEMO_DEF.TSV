@@ -1,0 +1,102 @@
+Node	Node_Long	Definition	OntologyScope
+TGEMO_00055	http://purl.obolibrary.org/obo/TGEMO_00055	C3H/HeJ	TGEMO
+TGEMO_00054	http://purl.obolibrary.org/obo/TGEMO_00054	C3H/He	TGEMO
+TGEMO_00057	http://purl.obolibrary.org/obo/TGEMO_00057	TGEMO Unclassified	TGEMO
+TGEMO_00056	http://purl.obolibrary.org/obo/TGEMO_00056	NOD.CB17-Prkdc<scid>/NcrCrl	TGEMO
+TGEMO_00051	http://purl.obolibrary.org/obo/TGEMO_00051	NOR1/Lt	TGEMO
+TGEMO_00050	http://purl.obolibrary.org/obo/TGEMO_00050	NOR	TGEMO
+TGEMO_00053	http://purl.obolibrary.org/obo/TGEMO_00053	C3H	TGEMO
+TGEMO_00052	http://purl.obolibrary.org/obo/TGEMO_00052	NOR/LtJ	TGEMO
+TGEMO_00059	http://purl.obolibrary.org/obo/TGEMO_00059	Chromosome 1	TGEMO
+TGEMO_00058	http://purl.obolibrary.org/obo/TGEMO_00058	Adjacent tissue	TGEMO
+TGEMO_00044	http://purl.obolibrary.org/obo/TGEMO_00044	SPRET	TGEMO
+TGEMO_00043	http://purl.obolibrary.org/obo/TGEMO_00043	FVB/NJ	TGEMO
+TGEMO_00046	http://purl.obolibrary.org/obo/TGEMO_00046	SPRET/EiJ	TGEMO
+TGEMO_00045	http://purl.obolibrary.org/obo/TGEMO_00045	SPRET/Ei	TGEMO
+TGEMO_00040	http://purl.obolibrary.org/obo/TGEMO_00040	B6J129SF?	TGEMO
+TGEMO_00042	http://purl.obolibrary.org/obo/TGEMO_00042	FVB/N	TGEMO
+TGEMO_00041	http://purl.obolibrary.org/obo/TGEMO_00041	FVB	TGEMO
+TGEMO_00048	http://purl.obolibrary.org/obo/TGEMO_00048	129S6/SvEvTac	TGEMO
+TGEMO_00047	http://purl.obolibrary.org/obo/TGEMO_00047	MMTV-PyMT	TGEMO
+TGEMO_00049	http://purl.obolibrary.org/obo/TGEMO_00049	129S2/SvPas	TGEMO
+TGEMO_00071	http://purl.obolibrary.org/obo/TGEMO_00071	Chromosome 13	TGEMO
+TGEMO_00070	http://purl.obolibrary.org/obo/TGEMO_00070	Chromosome 12	TGEMO
+TGEMO_00077	http://purl.obolibrary.org/obo/TGEMO_00077	Chromosome 19	TGEMO
+TGEMO_00076	http://purl.obolibrary.org/obo/TGEMO_00076	Chromosome 18	TGEMO
+TGEMO_00079	http://purl.obolibrary.org/obo/TGEMO_00079	Chromosome 21	TGEMO
+TGEMO_00078	http://purl.obolibrary.org/obo/TGEMO_00078	Chromosome 20	TGEMO
+TGEMO_00073	http://purl.obolibrary.org/obo/TGEMO_00073	Chromosome 15	TGEMO
+TGEMO_00072	http://purl.obolibrary.org/obo/TGEMO_00072	Chromosome 14	TGEMO
+TGEMO_00075	http://purl.obolibrary.org/obo/TGEMO_00075	Chromosome 17	TGEMO
+TGEMO_00074	http://purl.obolibrary.org/obo/TGEMO_00074	Chromosome 16	TGEMO
+TGEMO_00060	http://purl.obolibrary.org/obo/TGEMO_00060	Chromosome 2	TGEMO
+TGEMO_00066	http://purl.obolibrary.org/obo/TGEMO_00066	Chromosome 8	TGEMO
+TGEMO_00065	http://purl.obolibrary.org/obo/TGEMO_00065	Chromosome 7	TGEMO
+TGEMO_00068	http://purl.obolibrary.org/obo/TGEMO_00068	Chromosome 10	TGEMO
+TGEMO_00067	http://purl.obolibrary.org/obo/TGEMO_00067	Chromosome 9	TGEMO
+TGEMO_00100	http://purl.obolibrary.org/obo/TGEMO_00100	[BLACKLIST]	TGEMO
+TGEMO_00062	http://purl.obolibrary.org/obo/TGEMO_00062	Chromosome 4	TGEMO
+TGEMO_00061	http://purl.obolibrary.org/obo/TGEMO_00061	Chromosome 3	TGEMO
+TGEMO_00064	http://purl.obolibrary.org/obo/TGEMO_00064	Chromosome 6	TGEMO
+TGEMO_00063	http://purl.obolibrary.org/obo/TGEMO_00063	Chromosome 5	TGEMO
+TGEMO_00069	http://purl.obolibrary.org/obo/TGEMO_00069	Chromosome 11	TGEMO
+TGEMO_00091	http://purl.obolibrary.org/obo/TGEMO_00091	WSB/EiJ	TGEMO
+TGEMO_00090	http://purl.obolibrary.org/obo/TGEMO_00090	WSB/Ei	TGEMO
+TGEMO_00093	http://purl.obolibrary.org/obo/TGEMO_00093	A/J	TGEMO
+TGEMO_00092	http://purl.obolibrary.org/obo/TGEMO_00092	A	TGEMO
+TGEMO_00011	http://purl.obolibrary.org/obo/TGEMO_00011	TGEMO Internals	TGEMO
+TGEMO_00099	http://purl.obolibrary.org/obo/TGEMO_00099	Sprague Dawley	TGEMO
+TGEMO_00098	http://purl.obolibrary.org/obo/TGEMO_00098	Wistar-Kyoto	TGEMO
+TGEMO_00010	http://purl.obolibrary.org/obo/TGEMO_00010	TGEMO Methods	TGEMO
+TGEMO_00013	http://purl.obolibrary.org/obo/TGEMO_00013	DE_Include	TGEMO
+TGEMO_00012	http://purl.obolibrary.org/obo/TGEMO_00012	Immunodepletion	TGEMO
+TGEMO_00095	http://purl.obolibrary.org/obo/TGEMO_00095	C57BL/10J	TGEMO
+TGEMO_00094	http://purl.obolibrary.org/obo/TGEMO_00094	C57BL/10	TGEMO
+TGEMO_00097	http://purl.obolibrary.org/obo/TGEMO_00097	Long Evans	TGEMO
+TGEMO_00096	http://purl.obolibrary.org/obo/TGEMO_00096	Wistar	TGEMO
+TGEMO_00019	http://purl.obolibrary.org/obo/TGEMO_00019	DBA	TGEMO
+TGEMO_00018	http://purl.obolibrary.org/obo/TGEMO_00018	C57BL	TGEMO
+TGEMO_00015	http://purl.obolibrary.org/obo/TGEMO_00015	TGEMO Mouse Strains	TGEMO
+TGEMO_00014	http://purl.obolibrary.org/obo/TGEMO_00014	DE_Exclude	TGEMO
+TGEMO_00017	http://purl.obolibrary.org/obo/TGEMO_00017	DBA/2	TGEMO
+TGEMO_00016	http://purl.obolibrary.org/obo/TGEMO_00016	C57BL/6	TGEMO
+TGEMO_00080	http://purl.obolibrary.org/obo/TGEMO_00080	Chromosome 22	TGEMO
+TGEMO_00082	http://purl.obolibrary.org/obo/TGEMO_00082	Chromosome Y	TGEMO
+TGEMO_00081	http://purl.obolibrary.org/obo/TGEMO_00081	Chromosome X	TGEMO
+TGEMO_00000	http://purl.obolibrary.org/obo/TGEMO_00000	TGEMO Root	TGEMO
+TGEMO_00088	http://purl.obolibrary.org/obo/TGEMO_00088	[Time Consuming]	TGEMO
+TGEMO_00087	http://purl.obolibrary.org/obo/TGEMO_00087	TGEMO Chromosomes	TGEMO
+TGEMO_00002	http://purl.obolibrary.org/obo/TGEMO_00002	TGEMO Genetics/Mutations	TGEMO
+TGEMO_00089	http://purl.obolibrary.org/obo/TGEMO_00089	WSB	TGEMO
+TGEMO_00001	http://purl.obolibrary.org/obo/TGEMO_00001	Homozygous negative	TGEMO
+TGEMO_00084	http://purl.obolibrary.org/obo/TGEMO_00084	DBA/2J	TGEMO
+TGEMO_00083	http://purl.obolibrary.org/obo/TGEMO_00083	Mitochondrial DNA	TGEMO
+TGEMO_00086	http://purl.obolibrary.org/obo/TGEMO_00086	TGEMO Rat Strains	TGEMO
+TGEMO_00085	http://purl.obolibrary.org/obo/TGEMO_00085	CFW	TGEMO
+TGEMO_00008	http://purl.obolibrary.org/obo/TGEMO_00008	Constitutive active mutation	TGEMO
+TGEMO_00007	http://purl.obolibrary.org/obo/TGEMO_00007	Knockdown	TGEMO
+TGEMO_00009	http://purl.obolibrary.org/obo/TGEMO_00009	Dominant negative mutation	TGEMO
+TGEMO_00004	http://purl.obolibrary.org/obo/TGEMO_00004	Overexpression	TGEMO
+TGEMO_00003	http://purl.obolibrary.org/obo/TGEMO_00003	Heterozygous	TGEMO
+TGEMO_00006	http://purl.obolibrary.org/obo/TGEMO_00006	Double-copy overexpression	TGEMO
+TGEMO_00005	http://purl.obolibrary.org/obo/TGEMO_00005	Single-copy overexpression	TGEMO
+TGEMO_00033	http://purl.obolibrary.org/obo/TGEMO_00033	[Cell Line Sample Study]	TGEMO
+TGEMO_00032	http://purl.obolibrary.org/obo/TGEMO_00032	[Benchmark Study]	TGEMO
+TGEMO_00035	http://purl.obolibrary.org/obo/TGEMO_00035	129S/Sv	TGEMO
+TGEMO_00034	http://purl.obolibrary.org/obo/TGEMO_00034	129	TGEMO
+TGEMO_00031	http://purl.obolibrary.org/obo/TGEMO_00031	NOD/ShiLtJ	TGEMO
+TGEMO_00030	http://purl.obolibrary.org/obo/TGEMO_00030	NOD/ShiLt	TGEMO
+TGEMO_00037	http://purl.obolibrary.org/obo/TGEMO_00037	C57BL/6J	TGEMO
+TGEMO_00036	http://purl.obolibrary.org/obo/TGEMO_00036	129S/SvEv	TGEMO
+TGEMO_00039	http://purl.obolibrary.org/obo/TGEMO_00039	B6129SF?	TGEMO
+TGEMO_00038	http://purl.obolibrary.org/obo/TGEMO_00038	TGEMO Hybrid Mouse Strains	TGEMO
+TGEMO_00022	http://purl.obolibrary.org/obo/TGEMO_00022	[SUBSET]	TGEMO
+TGEMO_00021	http://purl.obolibrary.org/obo/TGEMO_00021	[Complex Design]	TGEMO
+TGEMO_00024	http://purl.obolibrary.org/obo/TGEMO_00024	AKR/J	TGEMO
+TGEMO_00023	http://purl.obolibrary.org/obo/TGEMO_00023	AKR	TGEMO
+TGEMO_00020	http://purl.obolibrary.org/obo/TGEMO_00020	[Sample Study]	TGEMO
+TGEMO_00029	http://purl.obolibrary.org/obo/TGEMO_00029	NOD/Shi	TGEMO
+TGEMO_00026	http://purl.obolibrary.org/obo/TGEMO_00026	BALB/c	TGEMO
+TGEMO_00025	http://purl.obolibrary.org/obo/TGEMO_00025	Crl:CD1(ICR)	TGEMO
+TGEMO_00028	http://purl.obolibrary.org/obo/TGEMO_00028	BALB/cJ	TGEMO
+TGEMO_00027	http://purl.obolibrary.org/obo/TGEMO_00027	NOD	TGEMO
